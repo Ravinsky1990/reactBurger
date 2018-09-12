@@ -1,4 +1,4 @@
 How to see the app.
-
-1. Run npm install from the root.
-2. Run npm start.
+1. Clone this repo.
+2. Run npm install from the root.
+3. Run npm start.
